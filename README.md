@@ -1,1 +1,1 @@
-# CRUD-with-React-Laravel-frontend
+crud operation practice project with react and laravel
